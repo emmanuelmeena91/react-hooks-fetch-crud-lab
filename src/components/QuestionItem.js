@@ -7,7 +7,7 @@ function QuestionItem({ question }) {
     <option key={index} value={index}>
       {answer}
     </option>
-  ));
+  ));            
 
   return (
     <li>
